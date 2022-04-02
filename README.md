@@ -11,4 +11,4 @@
 ### . 📚 I'm looking to learn more ... about backend world
 ### . ⚡ Fun fact: I spend 3 to 4 days a week training calisthenics.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayahaljawad&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdaljawad-Ayah&show_icons=true&theme=radical)
