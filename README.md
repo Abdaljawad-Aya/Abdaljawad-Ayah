@@ -11,8 +11,7 @@
 ---
 # Here is What I'm working On!
 
-### . 🌱 I’m currently learning... PHP/Laravel 
-### . 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/ayah-imad/)
+### . 🌱 I’m currently learning... PHP/Laravel
 ### . 📚 I'm looking to learn more ... about backend world
 ### . ⚡ Fun fact: I spend 3 to 4 days a week training calisthenics.
 
