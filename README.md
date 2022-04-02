@@ -12,3 +12,4 @@
 ### . ⚡ Fun fact: I spend 3 to 4 days a week training calisthenics.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdaljawad-Ayah&show_icons=true&theme=github_dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdaljawad-Ayah&repo=LaravelProjectStudying)](https://github.com/Abdaljawad-Ayah/LaravelProjectStudying)
