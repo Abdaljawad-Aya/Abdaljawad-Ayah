@@ -14,7 +14,7 @@
 ### . 👨‍💻 I’m PHP/Laravel
 ### . 📚 Learning Data Structure and Algorithm
 ### . ⚡ Fun fact: I spend 3 to 4 days a week training calisthenics.
-### . Please Subscribe to My Newsletter in ![Medium](https://medium.com/@backendfreak/)
+### . Please Subscribe to My Newsletter in [Medium](https://medium.com/@backendfreak/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdaljawad-Ayah&show_icons=true&theme=github_dark)
 
