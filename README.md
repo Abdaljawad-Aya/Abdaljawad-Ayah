@@ -11,8 +11,8 @@
 ---
 # Here is What I'm working On!
 
-### . 🌱 I’m currently learning... PHP/Laravel
-### . 📚 I'm looking to learn more ... about backend world
+### . 👨‍💻 I’m PHP/Laravel
+### . 📚 Learning Data Structure and Algorithm
 ### . ⚡ Fun fact: I spend 3 to 4 days a week training calisthenics.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdaljawad-Ayah&show_icons=true&theme=github_dark)
